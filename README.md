@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Someonegood GPA
+- 👋 Hi, I’m Someone
 - 👀 I’m interested in Someone
 - 🌱 I’m currently learning C++,Python.
 - 💞️ I’m looking to collaborate on my university assignments so I can have a good GPA.
